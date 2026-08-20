@@ -1,3 +1,3 @@
-# Code of varying quality.
+# code of primarily low quality :)
 
-I code in primarily python and use flask for most web projects. Dont know what else to write here, have a good day!
+uhhh idk i just put stuff here
